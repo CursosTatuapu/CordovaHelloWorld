@@ -9,6 +9,7 @@ body {
 .menu {
     width: 100%;
 }
+
 .porta-imagens .menu {
     float: left;
     width: 50%;
@@ -64,4 +65,5 @@ label[for=opcao-cafes] {
     transform: translateX(0);
     transition: transform 300ms ease;
     width: 200%;
+
 }
