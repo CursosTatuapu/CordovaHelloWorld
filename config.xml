@@ -9,8 +9,8 @@
 	<author href="http://profvictorhugo.esy.es" email="hullopes@hotmail.com">
 		Victor Hugo Lopes
 	</author>
-	<icon src="icon.png" />
-	<gap:splash src="splash.png" />
+	<icon src="img/icon.png" />
+	<gap:splash src="img/splash.png" />
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
 	<gap:platform name="android" />
